@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Simple Calculator</string>
+    <string name="sample_text" translatable="false">0123-4567</string>
+    <string name="input_box" translatable="false"></string>
+    <string name="output_box" translatable="false">0</string>
+    <string name="number_0" translatable="false">0</string>
+    <string name="number_1" translatable="false">1</string>
+    <string name="number_2" translatable="false">2</string>
+    <string name="number_3" translatable="false">3</string>
+    <string name="number_4" translatable="false">4</string>
+    <string name="number_5" translatable="false">5</string>
+    <string name="number_6" translatable="false">6</string>
+    <string name="number_7" translatable="false">7</string>
+    <string name="number_8" translatable="false">8</string>
+    <string name="number_9" translatable="false">9</string>
+    <string name="dot" translatable="false">.</string>
+    <string name="negation" translatable="false">+/-</string>
+    <string name="addition" translatable="false">+</string>
+    <string name="subtraction" translatable="false">-</string>
+    <string name="multiplication" translatable="false">*</string>
+    <string name="division" translatable="false">/</string>
+    <string name="modulo" translatable="false">%</string>
+    <string name="calculate" translatable="false">=</string>
+    <string name="clear" translatable="false"></string>
+    <string name="clear_all" translatable="false">AC</string>
+</resources>
